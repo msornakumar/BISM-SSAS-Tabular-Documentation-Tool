@@ -1,0 +1,41 @@
+C:\Sorna\Temp\BISMDocumentor-DescriptionEditor\bin\Debug\BISMDocumentor.exe.config
+C:\Sorna\Temp\BISMDocumentor-DescriptionEditor\bin\Debug\BISMDocumentor.exe
+C:\Sorna\Temp\BISMDocumentor-DescriptionEditor\bin\Debug\BISMDocumentor.pdb
+C:\Sorna\Temp\BISMDocumentor-DescriptionEditor\obj\Debug\BISMDocumenter.csprojResolveAssemblyReference.cache
+C:\Sorna\Temp\BISMDocumentor-DescriptionEditor\obj\Debug\BISMDocumenter.csproj.ResolveComReference.cache
+C:\Sorna\Temp\BISMDocumentor-DescriptionEditor\obj\Debug\BISMDocumentor_DescriptionEditor.frmBISMDocumentor.resources
+C:\Sorna\Temp\BISMDocumentor-DescriptionEditor\obj\Debug\BISMDocumentor.Properties.Resources.resources
+C:\Sorna\Temp\BISMDocumentor-DescriptionEditor\obj\Debug\BISMDocumenter.csproj.GenerateResource.Cache
+C:\Sorna\Temp\BISMDocumentor-DescriptionEditor\obj\Debug\BISMDocumentor.exe
+C:\Sorna\Temp\BISMDocumentor-DescriptionEditor\obj\Debug\BISMDocumentor.pdb
+C:\Sorna\Temp\BISMDocumenter\bin\Debug\BISMDocumentor.exe.config
+C:\Sorna\Temp\BISMDocumenter\obj\Debug\BISMDocumenter.csproj.ResolveComReference.cache
+C:\Sorna\Temp\BISMDocumenter\obj\Debug\BISMDocumentor.exe
+C:\Sorna\Temp\BISMDocumenter\obj\Debug\BISMDocumentor.pdb
+E:\mvp\BISMDocumenter\BISMDocumenter\bin\Debug\BISMDocumentor.exe.config
+E:\mvp\BISMDocumenter\BISMDocumenter\obj\Debug\BISMDocumenter.csproj.ResolveComReference.cache
+E:\mvp\BISMDocumenter\BISMDocumenter\obj\Debug\BISMDocumentor.exe
+E:\mvp\BISMDocumenter\BISMDocumenter\obj\Debug\BISMDocumentor.pdb
+E:\mvp\BISMDocumenter\BISMDocumenter\bin\Debug\BISMDocumentor.exe
+E:\mvp\BISMDocumenter\BISMDocumenter\bin\Debug\BISMDocumentor.pdb
+E:\mvp\BISMDocumenter\BISMDocumenter\obj\Debug\BISMDocumentor_DescriptionEditor.frmBISMDocumentor.resources
+E:\mvp\BISMDocumenter\BISMDocumenter\obj\Debug\BISMDocumentor.Properties.Resources.resources
+E:\mvp\BISMDocumenter\BISMDocumenter\obj\Debug\BISMDocumenter.csproj.GenerateResource.Cache
+E:\MVP\GitHubMigration\BISM SSAS Tabular Documentation Tool\bismssastabulardocumenter-5552\obj\Debug\BISMDocumenter.csprojResolveAssemblyReference.cache
+E:\MVP\GitHubMigration\BISM SSAS Tabular Documentation Tool\bismssastabulardocumenter-5552\obj\Debug\BISMDocumentor.exe
+E:\MVP\GitHubMigration\BISM SSAS Tabular Documentation Tool\bismssastabulardocumenter-5552\obj\Debug\BISMDocumentor.pdb
+E:\MVP\GitHubMigration\BISM SSAS Tabular Documentation Tool\bismssastabulardocumenter-5552\obj\Debug\Interop.Microsoft.Office.Core.dll
+E:\MVP\GitHubMigration\BISM SSAS Tabular Documentation Tool\bismssastabulardocumenter-5552\obj\Debug\BISMDocumenter.csproj.ResolveComReference.cache
+E:\MVP\GitHubMigration\BISM SSAS Tabular Documentation Tool\bismssastabulardocumenter-5552\obj\Debug\BISMDocumentor_DescriptionEditor.frmBISMDocumentor.resources
+E:\MVP\GitHubMigration\BISM SSAS Tabular Documentation Tool\bismssastabulardocumenter-5552\obj\Debug\BISMDocumentor.Properties.Resources.resources
+E:\MVP\GitHubMigration\BISM SSAS Tabular Documentation Tool\bismssastabulardocumenter-5552\obj\Debug\BISMDocumenter.csproj.GenerateResource.Cache
+E:\MVP\GitHubMigration\BISM SSAS Tabular Documentation Tool\bismssastabulardocumenter-5552\bin\Debug\BISMDocumentor.exe.config
+E:\MVP\GitHubMigration\BISM SSAS Tabular Documentation Tool\bismssastabulardocumenter-5552\bin\Debug\BISMDocumentor.exe
+E:\MVP\GitHubMigration\BISM SSAS Tabular Documentation Tool\bismssastabulardocumenter-5552\bin\Debug\BISMDocumentor.pdb
+E:\MVP\GitHubMigration\BISM SSAS Tabular Documentation Tool\bismssastabulardocumenter-5552\bin\Debug\Microsoft.AnalysisServices.DLL
+E:\MVP\GitHubMigration\BISM SSAS Tabular Documentation Tool\bismssastabulardocumenter-5552\bin\Debug\Microsoft.AnalysisServices.Core.DLL
+E:\MVP\GitHubMigration\BISM SSAS Tabular Documentation Tool\bismssastabulardocumenter-5552\bin\Debug\Microsoft.AnalysisServices.Tabular.DLL
+E:\MVP\GitHubMigration\BISM SSAS Tabular Documentation Tool\bismssastabulardocumenter-5552\bin\Debug\Microsoft.AnalysisServices.Tabular.Json.DLL
+E:\MVP\GitHubMigration\BISM SSAS Tabular Documentation Tool\bismssastabulardocumenter-5552\bin\Debug\Microsoft.AnalysisServices.xml
+E:\MVP\GitHubMigration\BISM SSAS Tabular Documentation Tool\bismssastabulardocumenter-5552\bin\Debug\Microsoft.AnalysisServices.Core.xml
+E:\MVP\GitHubMigration\BISM SSAS Tabular Documentation Tool\bismssastabulardocumenter-5552\bin\Debug\Microsoft.AnalysisServices.Tabular.xml
