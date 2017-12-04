@@ -16,8 +16,8 @@
 
 #### PreRequisites
 
-1. .Net Framework 2.0 and above
- 2. Microsoft® SQL Server® 2012 Analysis Management Objects which can be downloaded from the below link http://www.microsoft.com/en-us/download/details.aspx?id=29065
+1. .Net Framework 4.6 and above
+ 2. Microsoft® SQL Server® 2016 Analysis Management Objects which can be downloaded from the below link https://www.microsoft.com/en-us/download/confirmation.aspx?id=52676
  3. Office 2010 or Above.
 
  #### How to Use the tool
