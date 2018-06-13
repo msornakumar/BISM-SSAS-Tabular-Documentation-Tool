@@ -30,7 +30,5 @@
 6. Click Generate Document Button.
 7. For each cube selected one excel will be generated in the output path specified.
 
-
- Note : Please don't remove \ rename the template folder and the excel file in it. The tool depends on these files.
- 
+  
  #### This project has been modified to use for SQL Server 2016 and 2017
