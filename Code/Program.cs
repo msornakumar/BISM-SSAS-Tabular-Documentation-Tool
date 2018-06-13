@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace BISMDocumentor_DescriptionEditor
+namespace SSASDocumentationTool_DescriptionEditor
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace BISMDocumentor_DescriptionEditor
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmBISMDocumentor());
+            Application.Run(new frmSSASDocumentationTool());
         }
     }
 }
