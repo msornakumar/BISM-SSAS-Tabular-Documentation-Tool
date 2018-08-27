@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BISMDocumenter", "BISMDocumenter.csproj", "{9BCD4F75-4D58-4FD1-B47D-B9C4BFF5365F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BISMDocumenterWindows", "BISMDocumenterWindows.csproj", "{9BCD4F75-4D58-4FD1-B47D-B9C4BFF5365F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
